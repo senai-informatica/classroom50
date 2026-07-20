@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "1DT_2026/2",
+  "short_name": "1dt-2026-2",
+  "term": "1 semestre tarde s02_2026",
+  "org": "senai-informatica",
+  "team": {
+    "id": 18609297,
+    "slug": "classroom50-1dt-2026-2"
+  },
+  "teams": {
+    "teacher": {
+      "id": 18609298,
+      "slug": "classroom50-1dt-2026-2-teacher"
+    },
+    "ta": {
+      "id": 18609299,
+      "slug": "classroom50-1dt-2026-2-ta"
+    }
+  }
+}
