@@ -1,13 +1,4 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": [
-    {
-      "slug": "atividade-01",
-      "name": "Atividade 01",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": false,
-      "empty_repo": true
-    }
-  ]
+  "assignments": []
 }
